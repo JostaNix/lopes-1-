@@ -1,0 +1,6 @@
+{
+  "token": "",
+  "prefix": ["."],
+  "mongoUrl": "mongodb+srv://hadesdatabase:database123@hadeslog.6rijw.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "owners": [""]
+}
